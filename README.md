@@ -2,7 +2,7 @@
 Language: Python
 
 # Requirements
-  I. Picture Slideshow
-  II. Events page
-  III. Questions and Answers forum
-  IV. Social media display
+  1. Picture Slideshow
+  2. Events page
+  3. Questions and Answers forum
+  4. Social media display
